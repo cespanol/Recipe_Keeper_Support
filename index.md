@@ -9,4 +9,4 @@ Recipe Keeper is a private, minimal recipe notebook for iPhone and iPad.
 
 - [Privacy Policy](privacy/)
 - [Support](support/)
-
+- [App Review Recipe](review-recipe/)
