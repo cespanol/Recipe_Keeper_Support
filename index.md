@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Recipe Keeper
+title: Recipe Keeper Simplified
 ---
 
-# Recipe Keeper
+# Recipe Keeper Simplified
 
 Recipe Keeper is a private, minimal recipe notebook for iPhone and iPad.
 
